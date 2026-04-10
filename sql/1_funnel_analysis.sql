@@ -1,4 +1,4 @@
-#Funnel Analysis: Tracks user conversion across stages
+-- Funnel Analysis: Tracks user conversion across stages
         
 WITH funnel AS ( 
 SELECT event_type AS stage,
