@@ -1,3 +1,5 @@
+-- Retention Analysis: Measures user return behavior within 1 day of signup
+
 WITH total_users_data AS ( SELECT user_id,
                                   MIN(timestamp) AS signup_time
 						   FROM events
