@@ -1,4 +1,4 @@
-As for as I remember this is the final funnel analysis
+-- Drop-off Analysis: Identifies users who did not move to the next stage in the funnel
 
 WITH visit AS(
               SELECT DISTINCT user_id FROM events WHERE event_type = 'visit'),
