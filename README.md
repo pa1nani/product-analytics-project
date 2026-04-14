@@ -50,3 +50,7 @@ Grouped users by signup date and tracked engagement over time.
 ## 🚀 Outcome
 
 Developed a complete product analytics pipeline from raw data to actionable insights.
+
+## 📊 Dashboard Preview
+
+![Dashboard](product-analytics-dashboard.png)
