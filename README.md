@@ -53,4 +53,4 @@ Developed a complete product analytics pipeline from raw data to actionable insi
 
 ## 📊 Dashboard Preview
 
-![Dashboard](product-analytics-dashboard.png)
+![Dashboard](dashboard.png)
